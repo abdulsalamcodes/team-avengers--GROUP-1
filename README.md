@@ -5,7 +5,7 @@ This is the frontend repository for the EstyHotels page design.
 
 ## Colors
  - Primary color (orange color on the page): **#D66939**
- - Secondary Color (Black colors on the page): **2C2C2C**
+ - Secondary Color (Black colors on the page): **#2C2C2C**
  - Tertiary color (White text on the page): **#FFFFFF**
 
 ## Images
